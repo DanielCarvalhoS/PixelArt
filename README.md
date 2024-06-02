@@ -1,5 +1,5 @@
 # PixelArt
-##****Dupla: Christian Varandas e Daniel Carvalho Da Silva****
+##Dupla: Christian Varandas e Daniel Carvalho Da Silva
 
 ## Descrição da cena
 - Kirby e Luffy encontram uma carne sagrada, oque faz eles voar de felicidade pela grande carne sagrada. E ambos ficam extremamente felizes com isso.
